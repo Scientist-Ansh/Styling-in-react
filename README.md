@@ -8,10 +8,13 @@ after downloading or cloning the project run command prompt in that folder then 
 ### `npm start`
 
 ## Project Description 
+This project will shows you a demo of styled component in react.
 
-Project uses css styled component and also normal css styles
+Project uses css styled component and also normal css styles.
 
-one button is provided to toggle css styled component where background color property is passed down
-to children and grandchildren component automatically 
+One button is provided to toggle css styled component where background color property is passed down
+to children and grandchildren component automatically. Here a parent component encloses children com-
+ponents and styles are passed down from parent.
 
-other button is there to toggle normal css classes to pass background color property.
+Other button is there to toggle normal css classes to pass background color property.
+
